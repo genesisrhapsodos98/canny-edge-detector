@@ -1,1 +1,1 @@
-# canny-edge-detection
+C++ implementation of Canny edge detector
